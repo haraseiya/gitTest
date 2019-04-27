@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello world?haradesu
-=======
-hello world!!
->>>>>>> branchA
+My name is Hara!!
+I love unity!!
