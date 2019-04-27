@@ -1,0 +1,170 @@
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEditor.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEditor.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\takumi-A\Desktop\unity animation\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\takumi-A\Desktop\unity animation\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\takumi-A\Desktop\unity animation\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\takumi-A\Desktop\unity animation\obj\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Desktop\unity animation\obj\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\MMD4Mecanim.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\nunit.framework.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\nunit.framework.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\MMD4Mecanim.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\nunit.framework.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEditor.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEditor.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\nunit.framework.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\student\Desktop\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\student\Desktop\unity animation\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\unity animation\obj\Debug\Assembly-CSharp.dll
+C:\Users\student\Desktop\unity animation\obj\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\MMD4Mecanim.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\nunit.framework.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEditor.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEditor.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\nunit.framework.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\obj\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Downloads\unity animation (5)\unity animation\obj\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\obj\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\obj\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\MMD4Mecanim.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\nunit.framework.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEditor.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEditor.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\nunit.framework.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\takumi-A\Desktop\unity animation (8)\unity animation\obj\Debug\Assembly-CSharp.csproj.CopyComplete
