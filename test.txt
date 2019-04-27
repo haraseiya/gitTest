@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world?haradesu
-=======
-hello world!!
->>>>>>> branchA
+hello world!?haradesu
